@@ -27,7 +27,7 @@ JavaScript (DOM Manipulation, Event Handling)
 
 ⚙️ How to Run the Project
 1. Download or clone the repository  
-https://priyanshu-krs.github.io/Personal-Portfolio/
+https://poojahr16.github.io/Personal-Portfolio/
 
 2. Open the project folder  
 cd Personal-Portfolio  
