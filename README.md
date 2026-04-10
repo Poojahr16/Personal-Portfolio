@@ -1,39 +1,39 @@
-# 🌐 Personal Portfolio Website
+🌐 Personal Portfolio Website
 
-## 👩‍🎓 Details
-- **Name:** Pooja
-- **Course:** B.Tech CSE Core
-- **Course Name:** Web Programming with Python and JavaScript Lab
-- **Course Code:** SEC035
+👩‍🎓 Details
+Name: POOJA 
+Roll Number: 2401010136  
+Course: B.Tech CSE CORE  
+Course Name: Web Programming with Python and JavaScript Lab  
+Course Code: SEC035  
 
----
-
-## 📌 Project Overview
-This project is a responsive personal portfolio website built using HTML, CSS, and JavaScript.
-The website showcases my profile, skills, projects, and contact information in a clean and professional layout.
+📌 Project Overview
+This is a responsive personal portfolio website built using HTML, CSS, and JavaScript.  
+The website showcases my profile, skills, projects, and contact information in a clean and professional layout.  
 The project demonstrates semantic HTML structure, modern CSS styling, and basic JavaScript interactivity.
----
 
-## 🚀 Features
-- Semantic HTML5 structure  
-- Responsive and modern UI design  
-- Smooth navigation between sections  
-- Interactive elements using JavaScript  
-- Contact form with validation  
-- Clean and well-organized code structure  
+🚀 Features
+Semantic HTML5 structure  
+Responsive and modern UI design  
+Smooth navigation  
+Interactive elements using JavaScript  
+Functional front-end contact form with validation  
+Clean and well-organized code structure  
 
----
+🛠 Technologies Used
+HTML5  
+CSS3 (Flexbox, Media Queries, Box Model)  
+JavaScript (DOM Manipulation, Event Handling)  
 
-## 🛠 Technologies Used
-- HTML5  
-- CSS3 (Flexbox, Media Queries, Box Model)  
-- JavaScript (DOM Manipulation, Event Handling)
+⚙️ How to Run the Project
+1. Download or clone the repository  
+https://priyanshu-krs.github.io/Personal-Portfolio/
 
----
+2. Open the project folder  
+cd Personal-Portfolio  
 
-## ⚙️ How to Run the Project
+3. Open the project in your browser  
+Locate the index.html file  
+Double-click on index.html  
 
-### 1. Clone the repository
-```
-
-
+👉 Your portfolio website will open in your default web browser.
