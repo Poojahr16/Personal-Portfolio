@@ -36,4 +36,4 @@ cd Personal-Portfolio
 Locate the index.html file  
 Double-click on index.html  
 
-👉 Your portfolio website will open in your default web browser.
+
