@@ -1,11 +1,12 @@
 🌐 Personal Portfolio Website
 
 👩‍🎓 Details
-Name: POOJA 
-Roll Number: 2401010136  
-Course: B.Tech CSE CORE  
-Course Name: Web Programming with Python and JavaScript Lab  
-Course Code: SEC035  
+
+- Name: POOJA 
+- Roll Number: 2401010136  
+- Course: B.Tech CSE CORE  
+- Course Name: Web Programming with Python and JavaScript Lab  
+- Course Code: SEC035  
 
 📌 Project Overview
 This is a responsive personal portfolio website built using HTML, CSS, and JavaScript.  
