@@ -1,7 +1,6 @@
 🌐 Personal Portfolio Website
 
 👩‍🎓 Details
-
 - Name: POOJA 
 - Roll Number: 2401010136  
 - Course: B.Tech CSE CORE  
